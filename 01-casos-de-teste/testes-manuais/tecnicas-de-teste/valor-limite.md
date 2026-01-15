@@ -21,3 +21,4 @@ Campo: Idade permitida (18 a 65)
 - 65 → válido (limite máximo)
 - 66 → inválido (acima do máximo)
 
+Refina documentação de Análise de Valor Limite
