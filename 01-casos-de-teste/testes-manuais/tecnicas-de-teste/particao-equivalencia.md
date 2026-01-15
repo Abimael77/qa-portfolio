@@ -21,3 +21,4 @@ Campo: Idade
   - Campo vazio
   - Valores não numéricos
 
+Refina documentação de Partição por Equivalência
