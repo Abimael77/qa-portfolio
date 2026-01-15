@@ -1,7 +1,10 @@
 ID: BUG-001
+
 Título: Sistema permite login sem informar senha
+
 Severidade: Alta
 Prioridade: Alta
+
 Ambiente: Homologação
 Status: Aberto
 
