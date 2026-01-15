@@ -1,6 +1,6 @@
  Partição por Equivalência
 
- O que é
+ O que é?
  
 Técnica de teste que divide os dados de entrada em classes válidas e inválidas, permitindo reduzir a quantidade de casos de teste mantendo a cobertura.
 
